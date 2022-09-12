@@ -1,0 +1,74 @@
+.navbar-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px solid white;
+    margin: 0 100px 0 100px;
+}
+
+.students-container{
+    padding: 10px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: flex;
+    gap: 40px;
+    justify-content: center;
+}
+
+.team-header{
+    color: white;
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card{
+    width: 200px;
+    height: 400px;
+    border: 2px solid white;
+    padding: 20px;
+}
+
+.image-container{
+    width: 100%;
+    height: 300px;
+}
+
+.dola-picture{
+    width: 100%;
+    height: 100%;
+}
+.container{
+    background-color: #181818;
+}
+
+.content-container{
+    color: white;
+}
+
+.subject-container{
+    color: white;
+
+}
+.subject_header{
+    margin-left: 100px ;
+}
+.subject-card{
+    border: 1px solid white;
+    width: 150px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.subject-card:hover{
+    background-color: white;
+    color: black
+}
+.subject-card-container{
+    margin-left: 200px;
+    margin-right: 200px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
